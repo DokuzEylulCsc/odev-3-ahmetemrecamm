@@ -1,0 +1,18 @@
+10
+a b c d a b c d a b
+15
+N0000000059 a a a a a a a a a a
+N0000000645 b b b b b b b b b b
+N0000000562 c c c c c c c c c c
+N0000000045 d d d d d d d d d d
+N0000000059 d b f c c d a c f f
+N0000000021 d f b a a c c d c a
+N0000000097 d b a f a b d d b f
+N0000000097 a d c c a f a d a b
+N0000005649 a b c d a b c d a b
+N0000004564 a f f f f f f f f f
+N0000065494 b b c d a b c d a d
+N0000006599 c d c a b c a d a b
+N0000009456 a d f f a f c d a b
+N0000004976 a c f a d a a d a b
+N0000003333 f b a c d c b a f b
